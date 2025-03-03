@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="sr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Subvencije za samozapošljavanje - 2025</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #007bff;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            font-size: 24px;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            padding: 20px;
+            background: white;
+            box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        }
+        h2 {
+            color: #333;
+        }
+        .cta {
+            background-color: #007bff;
+            color: white;
+            padding: 10px 20px;
+            display: inline-block;
+            text-decoration: none;
+            margin-top: 10px;
+        }
+        .contact {
+            background: #007bff;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            margin-top: 20px;
+        }
+        .contact a {
+            color: yellow;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <header>Subvencije za samozapošljavanje - 2025</header>
+    <div class="container">
+        <h2>ŠTA SU SUBVENCIJE ZA SAMOZAPOŠLJAVANJE?</h2>
+        <p>Subvencije omogućavaju nezaposlenima da pokrenu sopstveni biznis uz bespovratna sredstva.</p>
+        <ul>
+            <li>💵 380.000 dinara za samozapošljavanje</li>
+            <li>💵 420.000 dinara za osobe sa invaliditetom</li>
+        </ul>
+        <a href="#kontakt" class="cta">Zakazivanje konsultacija</a>
+    </div>
+    <div class="container">
+        <h2>Kako funkcioniše konkurs?</h2>
+        <ol>
+            <li>Izrada biznis plana</li>
+            <li>Predaja biznis plana u NSZ</li>
+            <li>Objava rezultata konkursa</li>
+            <li>Registracija firme i otvaranje računa</li>
+            <li>Potpisivanje ugovora i uplata subvencija</li>
+        </ol>
+    </div>
+    <div id="kontakt" class="contact">
+        <h2>Kontakt</h2>
+        <p>📲 Viber: <a href="tel:+381612974274">061 297 4274</a></p>
+        <p>📧 Email: <a href="mailto:pravnik.savetnik@gmail.com">pravnik.savetnik@gmail.com</a></p>
+    </div>
+</body>
+</html>
